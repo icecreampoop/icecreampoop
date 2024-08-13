@@ -2,7 +2,7 @@
 Never thought learning could be fun until I started programming. <br><br>- My background is in outdoor education and I have extensive experience in sales<br>- I have been actively volunteering for the better part of my youth, spanning 8 years. From helping out in small day events to helming as camp master for 4D3N camps, I have done it all and have always picked up skills as required for the task at hand<br>- [My Magnum Opus (as of Aug 2024)](https://github.com/icecreampoop/Mind-Space)<br>- Looking to prove my worth and find my place in this world<br>- Currently practicing leetcode
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pang-ching-kuang-1657b4190) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pang-ching-kuang) 
 [![LinkedIn](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=242424&logo=LeetCode)](https://leetcode.com/u/icecreampoop/) 
 
 # 💻 Tech Stack
