@@ -1,11 +1,10 @@
 # 💫 About Me
-Never thought learning could be fun until I started programming. <br>
+- 3 months of experience as Fintech Backend Engineer Trainee for Delivery Hero (Foodpanda)<br>
 - My background is in outdoor education and I have extensive experience in sales<br>
 - I have been actively volunteering for the better part of my youth, spanning 8 years. From helping out in small day events to helming as camp master for 4D3N camps, I have done it all and have always picked up skills as required for the task at hand<br>
 - [My Magnum Opus (as of Aug 2024)](https://github.com/icecreampoop/Mind-Space)<br>
 - [Small "rewrite" of the backend in GO](https://github.com/icecreampoop/Mind-Space-GO-Backend)<br>
-- Looking to prove my worth and find my place in this world<br>
-- ~~Currently practicing leetcode~~ Learning GO and other misc stuff for my backend position in Delivery Hero (Foodpanda)
+- Currently finishing up on design patterns and practising Leetcode
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pang-ching-kuang) 
