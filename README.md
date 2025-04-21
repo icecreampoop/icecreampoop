@@ -4,7 +4,7 @@
 - I have been actively volunteering for the better part of my youth, spanning 8 years. From helping out in small day events to helming as camp master for 4D3N camps, I have done it all and have always picked up skills as required for the task at hand<br>
 - [My Magnum Opus (as of Aug 2024)](https://github.com/icecreampoop/Mind-Space)<br>
 - [Small "rewrite" of the backend in GO](https://github.com/icecreampoop/Mind-Space-GO-Backend)<br>
-- Currently finishing up on design patterns and getting into competitive programming
+- Currently finishing up on design patterns, re-learning Java and getting into competitive programming
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pang-ching-kuang) 
